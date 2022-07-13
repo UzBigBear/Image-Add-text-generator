@@ -19,7 +19,7 @@ btnform.addEventListener('click', e => {
 function addtext(e) {
     // Draw Image function
     var img = new Image();
-    img.src = '/img/nmz-time.jpg';
+    img.src = './img/nmz-time.jpg';
     img.onload = function () {
         context.drawImage(img, 0, 0);
         context.lineWidth = 1;
