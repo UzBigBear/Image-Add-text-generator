@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+form {
+  font-size: 1.2em;
+}
+
+form label {
+  padding: 5px;
+  display: list-item;
+  color: #7415cc;
+  font-style: oblique;
+}
+
+form input {
+  display: list-item;
+}
+
+form button {
+  padding: 8px 15px 8px 15px;
+  font-size: 1.2em;
+}
+
+h1 {
+  font-size: 3em;
+  color: #1537cc;
+}
+
+.img-box {
+  width: 100vh;
+}
+/*# sourceMappingURL=main.css.map */

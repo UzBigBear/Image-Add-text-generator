@@ -1,0 +1,36 @@
+//web font add popins
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;;
+}
+
+form {
+    font-size: 1.2em;
+
+    label {
+        padding: 5px;
+        display: list-item;
+        color:rgb(116, 21, 204);
+        font-style: oblique;
+    }
+
+    input {
+
+        display: list-item;
+    }
+
+    button {
+        padding: 8px 15px 8px 15px;
+        font-size: 1.2em;
+    }
+}
+
+h1 {
+    font-size: 3em;
+    color: rgb(21, 55, 204);
+}
+
+.img-box {
+    width: 100vh;
+}
